@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>gem '${1:gemname}'</string>
+	<key>name</key>
+	<string>Gem</string>
+	<key>scope</key>
+	<string>source.bundler</string>
+	<key>tabTrigger</key>
+	<string>gem</string>
+	<key>uuid</key>
+	<string>263ACE2C-E136-48CB-9677-F13EF37B1A6B</string>
+</dict>
+</plist>
