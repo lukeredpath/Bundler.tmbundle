@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Gem</string>
 	<key>scope</key>
-	<string>source.bundler</string>
+	<string>source.ruby.bundler</string>
 	<key>tabTrigger</key>
 	<string>gem</string>
 	<key>uuid</key>

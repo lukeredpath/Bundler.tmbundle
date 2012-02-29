@@ -22,7 +22,7 @@
 		</dict>
 	</array>
 	<key>scopeName</key>
-	<string>source.bundler</string>
+	<string>source.ruby.bundler</string>
 	<key>uuid</key>
 	<string>DC6F35B2-32D9-4E7E-813F-3DD5E0382877</string>
 </dict>

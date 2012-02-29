@@ -10,7 +10,7 @@ end
 	<key>name</key>
 	<string>Group</string>
 	<key>scope</key>
-	<string>source.bundler</string>
+	<string>source.ruby.bundler</string>
 	<key>tabTrigger</key>
 	<string>group</string>
 	<key>uuid</key>

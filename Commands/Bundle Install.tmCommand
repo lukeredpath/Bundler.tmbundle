@@ -15,7 +15,7 @@
 	<key>output</key>
 	<string>showAsHTML</string>
 	<key>scope</key>
-	<string>source.bundler</string>
+	<string>source.ruby.bundler</string>
 	<key>uuid</key>
 	<string>D13191AD-5C4E-4C12-AD01-FFDB8151E6CF</string>
 </dict>
